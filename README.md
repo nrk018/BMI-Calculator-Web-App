@@ -1,8 +1,10 @@
-# **BMI Calculator Web App**
+## **BMI Calculator Web App**
 
 This repository hosts a **Body Mass Index (BMI) Calculator** application created using **HTML**, **CSS**, and **JavaScript**. The app allows users to quickly calculate their BMI and determine their health status based on the BMI classification.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/86888a57-9f05-423d-a4c0-3d84efd696f8)
+
+
 
 
 ## **Features**
